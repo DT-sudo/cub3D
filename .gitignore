@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+*.a
+obj/
+cub3D
+
+# MiniLibX test build
+libs/minilibx/test/mlx-test
+
+# Windows metadata
+*:Zone.Identifier
+
+# macOS metadata
+.DS_Store
+
+# Planning notes
+PROMPT.md
