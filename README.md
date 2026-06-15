@@ -98,3 +98,10 @@ tested by the author.
 
 - [Lode's Computer Graphics Tutorial — Raycasting](https://lodev.org/cgtutor/raycasting.html)
 - [MiniLibX documentation](https://harm-smits.github.io/42docs/libs/minilibx)
+
+## Acknowledgments
+
+- **42 School** — for the project subject and curriculum.
+- **libft** — my own C standard-library reimplementation, reused here.
+- **MiniLibX** — the lightweight graphics library provided by 42 for window
+  management, event handling and image rendering.
