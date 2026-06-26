@@ -1,6 +1,6 @@
 # cub3D
 
-*This project has been created as part of the 42 curriculum by olcherno.*
+*This project has been created as part of the 42 curriculum by olcherno and dtereshc.*
 
 ## Description
 
